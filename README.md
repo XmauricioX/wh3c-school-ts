@@ -1,8 +1,8 @@
 # wh3c-school-ts
 practicas de ts con wh3c school
 
-para poder usar:
-instalar nodejs
-cd w3c.school.ts
-npm i
-npx tsc -w
+para poder usar: <br>
+instalar nodejs <br>
+cd w3c.school.ts <br>
+npm i <br>
+npx tsc -w <br>
